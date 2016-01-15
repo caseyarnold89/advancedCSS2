@@ -123,3 +123,14 @@ h1 .sub:after {
     bottom: 9px;
     right: 10%;
 }
+
+.container1 button {
+    text-align: center;
+    font-size: 11pt;
+    padding: 14px 37px;
+    margin-left: 15px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-60%);
+    bottom:10%;
+}
