@@ -134,3 +134,23 @@ h1 .sub:after {
     transform: translateX(-60%);
     bottom:10%;
 }
+
+.container2 {
+    background:#eee;
+    height: 300px;
+    width: 100%;
+    position: absolute;
+    top:500px;
+    text-align: center;
+}
+
+.coDesc {
+    text-align: center;
+    color: #474343;
+    font-size: 16pt;
+    font-weight: 100;
+    line-height: 24pt;
+    display: inline-block;
+    width: 52%;
+    padding: 45px 15%;
+}
