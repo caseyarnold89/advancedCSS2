@@ -153,19 +153,25 @@ h1 .sub:after {
     display: inline-block;
     width: 52%;
     padding: 45px 15%;
+    max-height: 150px;
+}
+
+.container2 .imgContainer {
+    display: inline-block;
+    position: relative;
+    height: 105px;
+    width: 100%;
 }
 
 .container2 .wrenchPencilIcon {
-    display: inline-block;
     width: 115px;
     height: 105px;
     background-image:url("http://wideopentech.com/themes/wot-2013-gm/_/img/sprite_home.png");
     background-repeat: no-repeat;
     background-position: 0px;
     position: absolute;
-    top: 130px;
     left: 50%;
-    transform: translateX(-60%);
+    transform: translateX(-50%);
 }
 
 .container2 .howWorks {
